@@ -92,10 +92,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'apkmaker_foodbook',
-        'USER': 'apkmaker_foodboo',
-        'PASSWORD': '~h4m}gb.U7PI',
+        
+        'PASSWORD': 'pass',
         # 'HOST': '127.0.0.1',
-        'HOST': '162.214.7.207',
+        
         'PORT': '3306',
     }
 }
